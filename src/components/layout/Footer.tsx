@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { ArrowUpRight, MessageSquare, Mail, Linkedin, Sparkles } from 'lucide-react';
+import { ArrowUpRight, MessageSquare, Mail, Linkedin, Github, Sparkles } from 'lucide-react';
 import { Locale } from '@/lib/types';
 import { TRANSLATIONS } from '@/data/translations';
 import BrandLogo from '@/components/brand/BrandLogo';
@@ -95,6 +95,19 @@ export default function Footer({ locale }: FooterProps) {
                 >
                   <Linkedin className="w-4 h-4 text-accent" />
                   <span>LinkedIn Profile</span>
+                  <ArrowUpRight className="w-3.5 h-3.5 opacity-0 group-hover:opacity-100 transition-opacity" />
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/ahsanelm39-star"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="GitHub Profile"
+                  className="group inline-flex items-center gap-2 text-foreground/90 hover:text-accent transition-colors"
+                >
+                  <Github className="w-4 h-4 text-accent" />
+                  <span>GitHub Profile</span>
                   <ArrowUpRight className="w-3.5 h-3.5 opacity-0 group-hover:opacity-100 transition-opacity" />
                 </a>
               </li>

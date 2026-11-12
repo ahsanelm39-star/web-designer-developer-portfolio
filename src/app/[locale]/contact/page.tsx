@@ -1,6 +1,6 @@
 import React, { Suspense } from 'react';
 import type { Metadata } from 'next';
-import { MessageSquare, Mail, Linkedin, Sparkles, Clock, Globe } from 'lucide-react';
+import { MessageSquare, Mail, Linkedin, Github, Sparkles, Clock, Globe } from 'lucide-react';
 import { Locale } from '@/lib/types';
 import { TRANSLATIONS } from '@/data/translations';
 import ContactForm from '@/components/contact/ContactForm';
@@ -133,6 +133,32 @@ export default function ContactPage({
                   </div>
                   <span className="text-xs font-mono text-muted">
                     {isArabic ? 'الملف المهني' : 'Profile'}
+                  </span>
+                </a>
+
+                {/* GitHub */}
+                <a
+                  href="https://github.com/ahsanelm39-star"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="GitHub Profile"
+                  className="group flex items-center justify-between p-4 rounded-xl border border-border/60 bg-background/50 hover:border-accent/50 hover:bg-surface-hover transition-all"
+                >
+                  <div className="flex items-center gap-3">
+                    <div className="p-2.5 rounded-lg bg-surface text-foreground">
+                      <Github className="w-5 h-5" />
+                    </div>
+                    <div>
+                      <p className="font-semibold text-foreground group-hover:text-accent transition-colors">
+                        GitHub
+                      </p>
+                      <p className="text-xs font-mono text-muted">
+                        github.com/ahsanelm39-star
+                      </p>
+                    </div>
+                  </div>
+                  <span className="text-xs font-mono text-muted">
+                    {isArabic ? 'الملف التقني' : 'Profile'}
                   </span>
                 </a>
               </div>

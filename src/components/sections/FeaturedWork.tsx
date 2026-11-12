@@ -51,7 +51,7 @@ export default function FeaturedWork({ locale }: FeaturedWorkProps) {
 
         {/* 1. Large Heroic Editorial Feature: Mithaq Legal */}
         {mithaq && (
-          <div className="group relative rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 transition-all duration-300 overflow-hidden p-6 sm:p-10">
+          <div className="group shadow-md relative rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 transition-all duration-300 overflow-hidden p-6 sm:p-10">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
               <div className="lg:col-span-5 space-y-6">
                 <div className="flex flex-wrap items-center gap-2">
@@ -122,7 +122,7 @@ export default function FeaturedWork({ locale }: FeaturedWorkProps) {
 
         {/* 2. Asymmetric Two-Column Showcase: Al Awad Solutions */}
         {alawad && (
-          <div className="group relative rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 transition-all duration-300 overflow-hidden p-6 sm:p-10">
+          <div className="group shadow-md relative rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 transition-all duration-300 overflow-hidden p-6 sm:p-10">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
               {/* Visual Preview */}
               <div className="lg:col-span-7 order-2 lg:order-1 relative">
@@ -197,7 +197,7 @@ export default function FeaturedWork({ locale }: FeaturedWorkProps) {
           {[safer, a2z].filter(Boolean).map((project) => (
             <div
               key={project.slug}
-              className="group rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 p-6 flex flex-col justify-between transition-all duration-300 space-y-6"
+              className="group shadow-md rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/70 p-6 flex flex-col justify-between transition-all duration-300 space-y-6"
             >
               <div className="space-y-4">
                 <Link

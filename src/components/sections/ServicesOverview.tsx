@@ -46,7 +46,7 @@ export default function ServicesOverview({ locale }: ServicesOverviewProps) {
           {t.services.items.slice(0, 4).map((item, index) => (
             <div
               key={item.id}
-              className="group rounded-2xl border border-border/60 bg-surface/50 hover:bg-surface/80 p-8 flex flex-col justify-between transition-all duration-300 space-y-8"
+              className="shadow-sm group rounded-2xl border border-border/60 bg-surface/50 hover:bg-surface/80 p-8 flex flex-col justify-between transition-all duration-300 space-y-8"
             >
               <div className="space-y-6">
                 <div className="flex items-center justify-between">

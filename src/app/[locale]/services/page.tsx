@@ -58,7 +58,7 @@ export default function ServicesPage({
               <div
                 key={service.id}
                 id={service.id}
-                className="rounded-2xl border border-border/70 bg-surface/50 p-8 sm:p-12 transition-all duration-300 hover:border-accent/40 space-y-8"
+                className="light-card-shadow rounded-2xl border border-border/70 bg-surface/50 p-8 sm:p-12 transition-all duration-300 hover:border-accent/40 space-y-8"
               >
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
                   {/* Left Column: Title, Icon, Value Proposition */}

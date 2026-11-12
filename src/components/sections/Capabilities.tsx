@@ -47,7 +47,7 @@ export default function Capabilities({ locale }: CapabilitiesProps) {
         {/* Dual Pillar Comparison Grid */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Custom Front-End Pillar */}
-          <div className="rounded-2xl border border-border/70 bg-surface/60 p-8 space-y-6">
+          <div className="rounded-2xl shadow-md border border-border/70 bg-surface/60 p-8 space-y-6">
             <div className="flex items-center gap-3">
               <div className="p-2.5 rounded-xl bg-accent-dim text-accent border border-accent/20">
                 <Code2 className="w-5 h-5" />
@@ -80,7 +80,7 @@ export default function Capabilities({ locale }: CapabilitiesProps) {
           </div>
 
           {/* Visual Development Pillar */}
-          <div className="rounded-2xl border border-border/70 bg-surface/60 p-8 space-y-6">
+          <div className="rounded-2xl shadow-md border border-border/70 bg-surface/60 p-8 space-y-6">
             <div className="flex items-center gap-3">
               <div className="p-2.5 rounded-xl bg-surface border border-border-strong text-foreground">
                 <LayoutGrid className="w-5 h-5" />

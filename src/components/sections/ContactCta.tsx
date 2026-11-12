@@ -24,7 +24,7 @@ export default function ContactCta({ locale }: ContactCtaProps) {
           <span>{isArabic ? 'جاهز للبدء في مشروعك' : 'Ready for Your Upcoming Project'}</span>
         </div>
 
-        <div className="space-y-4 max-w-3xl mx-auto">
+        <div className="space-y-4 max-w-2xl mx-auto">
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2]">
             {t.contact.title}
           </h2>

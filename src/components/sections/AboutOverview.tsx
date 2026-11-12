@@ -68,19 +68,19 @@ export default function AboutOverview({ locale }: AboutOverviewProps) {
 
             {/* Quick Metrics */}
             <div className="pt-4 border-t border-border/40 grid grid-cols-2 sm:grid-cols-4 gap-4 text-xs font-mono">
-              <div className="p-3 rounded-lg border border-border/50 bg-surface/40">
+              <div className="p-3 rounded-lg border border-border/50 bg-surface/40 shadow-sm">
                 <span className="block text-accent font-bold text-base">26+</span>
                 <span className="text-muted">{isArabic ? 'موقعاً مبنياً' : 'Websites Built'}</span>
               </div>
-              <div className="p-3 rounded-lg border border-border/50 bg-surface/40">
+              <div className="p-3 rounded-lg border border-border/50 bg-surface/40 shadow-sm">
                 <span className="block text-accent font-bold text-base">2+</span>
                 <span className="text-muted">{isArabic ? 'سنوات خبرة' : 'Years Experience'}</span>
               </div>
-              <div className="p-3 rounded-lg border border-border/50 bg-surface/40">
+              <div className="p-3 rounded-lg border border-border/50 bg-surface/40 shadow-sm">
                 <span className="block text-foreground font-bold text-base">RTL / LTR</span>
                 <span className="text-muted">{isArabic ? 'ثنائي اللغة' : 'Bilingual Mastery'}</span>
               </div>
-              <div className="p-3 rounded-lg border border-border/50 bg-surface/40">
+              <div className="p-3 rounded-lg border border-border/50 bg-surface/40 shadow-sm">
                 <span className="block text-foreground font-bold text-base">Gulf Agency</span>
                 <span className="text-muted">{isArabic ? 'شريك أبيض' : 'White-Label'}</span>
               </div>

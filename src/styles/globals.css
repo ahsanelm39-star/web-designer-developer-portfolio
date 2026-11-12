@@ -147,3 +147,12 @@ html[dir="rtl"] body {
   pointer-events: none;
   opacity: 0.025;
 }
+
+/* Light-mode card shadow — only active outside .dark, invisible in dark theme */
+.light-card-shadow {
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.055);
+}
+
+.dark .light-card-shadow {
+  box-shadow: none;
+}

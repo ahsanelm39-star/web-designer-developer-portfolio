@@ -218,18 +218,18 @@ export default function ContactForm({ locale }: ContactFormProps) {
         </div>
 
         {/* Action Buttons */}
-        <div className="pt-2 flex flex-col sm:flex-row items-center gap-4">
+        <div className="pt-2 flex flex-col sm:flex-row items-center justify-center gap-4">
           <button
             type="button"
             onClick={(e) => handleSubmit(e, 'whatsapp')}
             disabled={status === 'submitting'}
-            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full bg-accent text-accent-foreground font-semibold text-xs tracking-wide shadow-md hover:opacity-95 disabled:opacity-50 transition-all"
+            className="w-full inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-full bg-accent text-accent-foreground font-semibold text-xs tracking-wide shadow-md hover:opacity-95 disabled:opacity-50 transition-all"
           >
             <MessageSquare className="w-4 h-4" />
             <span>{t.contact.submitWhatsapp}</span>
           </button>
 
-          <button
+          {/* <button
             type="button"
             onClick={(e) => handleSubmit(e, 'email')}
             disabled={status === 'submitting'}
@@ -237,7 +237,7 @@ export default function ContactForm({ locale }: ContactFormProps) {
           >
             <Mail className="w-4 h-4 text-accent" />
             <span>{t.contact.submitEmail}</span>
-          </button>
+          </button> */}
         </div>
 
         <p className="text-[11px] font-mono text-muted/80 leading-relaxed pt-2">

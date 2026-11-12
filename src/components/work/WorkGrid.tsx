@@ -94,7 +94,7 @@ export default function WorkGrid({ locale }: WorkGridProps) {
             return (
               <div
                 key={project.slug}
-                className="group rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/80 p-5 flex flex-col justify-between transition-all duration-300 space-y-5"
+                className="group light-card-shadow rounded-2xl border border-border/60 bg-surface/40 hover:bg-surface/80 p-5 flex flex-col justify-between transition-all duration-300 space-y-5"
               >
                 {/* Visual Preview */}
                 <div className="space-y-4">
