@@ -152,7 +152,7 @@ export default function ContactPage({
                   <span className="w-2 h-2 rounded-full bg-accent animate-pulse" />
                   {isArabic ? 'الرد خلال ساعات العمل' : 'Prompt Written Response'}
                 </span>
-                <span>UTC+2 / GCC Standard</span>
+                <span>{isArabic ? 'التوقيت المصري والخليجي' : 'Egypt & GCC Time Zones'}</span>
               </div>
             </div>
           </div>

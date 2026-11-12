@@ -39,7 +39,7 @@ export const TRANSLATIONS = {
       badge: 'الخبرة والموثوقية',
       title: 'بناء رقمي يوازن بين الوقار البصري والوضوح التجاري',
       description:
-        'خبرة عملية تشمل أكثر من 26 موقعاً تم إنجازها لمؤسسات وشركات وأفراد، مع سجل حافل بالتعاون مع وكالات التسويق الخليجية في تسليم مواقع معقدة بأعلى معايير الإتقان.',
+        'خبرة عملية تشمل أكثر من 26 موقعاً تم إنجازها لمؤسسات وشركات وأفراد، مع خبرة سابقة في التعاون مع وكالة رقمية في الخليج العربي لتنفيذ وتطوير المواقع الإلكترونية.',
       stat1Number: '26+',
       stat1Label: 'موقعاً تم بناؤه بنجاح',
       stat2Number: '2+',
@@ -167,7 +167,7 @@ export const TRANSLATIONS = {
         },
         {
           number: '05',
-          name: 'الفحص والتحسين وضبط الجودة',
+          name: 'الفحص الشامل وضمان الجودة',
           desc: 'اختبار دقيق لكافة مقاسات الشاشات، فحص سرعة الاستجابة، والتأكد من عمل كافة أزرار التواصل ومسارات الاستفسار بكفاءة.',
         },
       ],
@@ -301,7 +301,7 @@ export const TRANSLATIONS = {
       badge: 'Experience & Credibility',
       title: 'Digital craftsmanship balancing architectural dignity with commercial clarity',
       description:
-        'Hands-on delivery record spanning 26+ websites created for enterprises, local businesses, and independent professionals, backed by successful white-label partnerships with Gulf digital agencies.',
+        'Hands-on delivery record spanning 26+ websites created for enterprises, local businesses, and independent professionals, backed by previous experience collaborating with a Gulf-based digital agency on website delivery and implementation.',
       stat1Number: '26+',
       stat1Label: 'Websites Built to Date',
       stat2Number: '2+',
@@ -381,7 +381,7 @@ export const TRANSLATIONS = {
           deliverables: [
             'Bespoke, high-performance Three.js & WebGL spatial scenes',
             'Scroll-triggered kinetic typography and layout sequences',
-            'Consistent 60fps frame rates across desktop and mobile',
+            'Optimized rendering and performance-tuned animations across desktop and mobile',
             'Accessible fallbacks for low-power and reduced-motion states',
           ],
         },
@@ -429,7 +429,7 @@ export const TRANSLATIONS = {
         },
         {
           number: '05',
-          name: 'Testing & Optimization',
+          name: 'Structured Quality Assurance & Testing Process',
           desc: 'Comprehensive multi-breakpoint validation, performance audits, link testing, and verification of all inquiry conduits.',
         },
       ],

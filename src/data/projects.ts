@@ -425,8 +425,8 @@ export const PROJECTS: ProjectData[] = [
       en: 'Conversion-focused mobile service hub driving on-demand vehicle detailing bookings across Kuwait',
     },
     summary: {
-      ar: 'موقع خدمي فوري وسريع التفاعل لشركة غسيل وعناية بالسيارات متنقلة في الكويت، صُمم بعقلية تركز على حسم قرار العميل في أقل من 30 ثانية عبر استعراض الباقات والطلب عبر واتساب.',
-      en: 'A high-conversion mobile-first service website for an on-demand automotive detailing operator in Kuwait, engineered for rapid 30-second package evaluation and instant WhatsApp scheduling.',
+      ar: 'موقع خدمي مكثف وسريع التفاعل لشركة غسيل وعناية بالسيارات متنقلة في الكويت، صُمم لتقديم باقات الخدمة بوضوح قاطع وتسهيل اتخاذ قرار الحجز الفوري عبر واتساب بأقل قدر ممكن من الخطوات.',
+      en: 'A high-conversion mobile-first service website for an on-demand automotive detailing operator in Kuwait, built to present service packages with clarity and reduce the steps between visitor intent and WhatsApp booking.',
     },
     sector: {
       key: 'consumer-services',
