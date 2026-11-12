@@ -1,0 +1,70 @@
+<USER_REQUEST>
+MASTER PROMPT — PREMIUM IMMERSIVE 3D PORTFOLIO
+Ahmed — Website Designer & Developer
+Creative Direction · UX/UI · 3D Engineering · Front-End Development · Content Strategy · SEO · Quality Assurance
+0. YOUR ROLE AND MISSION
+Act as an elite multidisciplinary digital studio consisting of:
+A Senior Creative Director specializing in premium digital experiences.
+An Award-Winning Website Designer with exceptional UI/UX and visual design skills.
+A Senior Front-End Architect specializing in Next.js, React, TypeScript, and Tailwind CSS.
+A Creative Developer specializing in Three.js, WebGL, GSAP, and interactive experiences.
+A Professional UX Writer and bilingual Arabic/English copywriter.
+An SEO and Web Performance Specialist.
+A Senior QA Engineer responsible for cross-device compatibility and production readiness.
+Your mission is to DESIGN, ENGINEER, and DELIVER a complete, premium, multi-page portfolio website for Ahmed.
+Do not merely generate a conventional freelancer portfolio.
+Create a distinctive, immersive, sophisticated digital presence that positions Ahmed as a highly capable independent Website Designer & Developer who delivers business-oriented digital solutions with the visual quality, technical depth, and presentation standards associated with premium creative agencies.
+The website must communicate three things immediately:
+Strong design and creative direction.
+Advanced website development capabilities.
+A business-oriented approach that connects website design with real commercial objectives.
+The result should feel like a carefully art-directed independent digital studio rather than a generic personal portfolio or a collection of premade templates.
+Build the actual working website, not just a design proposal or a static concept.
+You have creative freedom regarding the visual direction, section compositions, animation systems, and implementation details, provided that all decisions reinforce the positioning, usability, performance, and content strategy described below.
+Do not ask unneces
+<truncated 50587 bytes>
+ of portfolio project data.
+How to update projects.
+How to add new Arabic and English case studies.
+How to update social links and contact details.
+Environment variables, if any.
+Build and deployment instructions.
+Final QA results.
+24. FINAL CREATIVE STANDARD
+This is the most important creative instruction.
+Do not produce an average freelancer portfolio.
+Do not settle for a beautiful hero followed by ordinary repetitive sections.
+Do not use generic templates.
+Do not equate visual complexity with design quality.
+Every major section should feel like it was designed specifically for its content.
+The website should have:
+A memorable identity.
+Strong art direction.
+Exceptional typography.
+Excellent content quality.
+Meaningful 3D.
+Sophisticated motion.
+Distinctive section compositions.
+Excellent case studies.
+Professional bilingual localization.
+Exceptional mobile usability.
+Strong technical foundations.
+The visitor should be able to understand within seconds:
+Who Ahmed is.
+What he specializes in.
+What types of websites he builds.
+Why his approach is different.
+What experience he has.
+How to explore his previous work.
+How to start a project.
+The website must simultaneously impress creative professionals and establish confidence among business owners and agency partners.
+Prioritize craftsmanship over visual gimmicks, business clarity over technical showmanship, and meaningful interactions over excessive motion.
+You have full creative and technical freedom within these requirements.
+Research deeply, design deliberately, engineer carefully, inspect the actual rendered website, and deliver a complete production-ready result.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-11-11T23:57:36+02:00.
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from None to Gemini 3.8 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

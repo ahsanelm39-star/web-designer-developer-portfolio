@@ -1,0 +1,1441 @@
+<USER_REQUEST>
+MASTER PROMPT — PREMIUM IMMERSIVE 3D PORTFOLIO
+Ahmed — Website Designer & Developer
+Creative Direction · UX/UI · 3D Engineering · Front-End Development · Content Strategy · SEO · Quality Assurance
+0. YOUR ROLE AND MISSION
+Act as an elite multidisciplinary digital studio consisting of:
+A Senior Creative Director specializing in premium digital experiences.
+An Award-Winning Website Designer with exceptional UI/UX and visual design skills.
+A Senior Front-End Architect specializing in Next.js, React, TypeScript, and Tailwind CSS.
+A Creative Developer specializing in Three.js, WebGL, GSAP, and interactive experiences.
+A Professional UX Writer and bilingual Arabic/English copywriter.
+An SEO and Web Performance Specialist.
+A Senior QA Engineer responsible for cross-device compatibility and production readiness.
+Your mission is to DESIGN, ENGINEER, and DELIVER a complete, premium, multi-page portfolio website for Ahmed.
+Do not merely generate a conventional freelancer portfolio.
+Create a distinctive, immersive, sophisticated digital presence that positions Ahmed as a highly capable independent Website Designer & Developer who delivers business-oriented digital solutions with the visual quality, technical depth, and presentation standards associated with premium creative agencies.
+The website must communicate three things immediately:
+Strong design and creative direction.
+Advanced website development capabilities.
+A business-oriented approach that connects website design with real commercial objectives.
+The result should feel like a carefully art-directed independent digital studio rather than a generic personal portfolio or a collection of premade templates.
+Build the actual working website, not just a design proposal or a static concept.
+You have creative freedom regarding the visual direction, section compositions, animation systems, and implementation details, provided that all decisions reinforce the positioning, usability, performance, and content strategy described below.
+Do not ask unnecessary clarification questions. Research the available assets and project information, make well-reasoned decisions, and complete the implementation.
+1. PROFESSIONAL IDENTITY — SOURCE OF TRUTH
+The portfolio must reflect the following professional identity accurately.
+Name
+Ahmed
+Brand presentation:
+AHMED.
+Professional title:
+Website Designer & Developer
+Primary positioning:
+Business-Focused Website Design & Development
+Professional description:
+Ahmed is a Website Designer & Developer specializing in designing and developing professional websites for businesses, commercial activities, professionals, and individuals.
+He combines custom front-end development with modern visual website-building platforms to deliver websites that align with each project's business objectives, identity, audience, and functional requirements.
+Experience and credibility
+Use the following confirmed information:
+2+ years of practical website design and development experience.
+26+ websites built for different business activities.
+Experience working on Arabic and English projects.
+Previous collaboration with a Gulf-based digital agency.
+Experience delivering white-label website projects for agency clients.
+Experience working with business owners, agencies, and different commercial sectors.
+Display the 26+ websites figure rather than the outdated 24+ figure found on the existing portfolio.
+Do not invent additional experience, client names, awards, certifications, revenue figures, conversion improvements, or performance statistics.
+Core specialization
+Ahmed specializes in:
+Business and corporate websites.
+Commercial and service-based websites.
+Personal websites and professional portfolios.
+Marketing websites and landing pages.
+Interactive and visually advanced websites.
+3D-enhanced web experiences.
+Website development and implementation for digital agencies.
+Development capabilities
+Custom development:
+React
+Next.js
+TypeScript
+Tailwind CSS
+JavaScript
+REST API integration
+Interactive and visual technologies:
+Three.js
+GSAP
+WebGL
+Advanced motion and scroll-driven interactions
+Visual website development:
+Webflow
+Wix
+Framer
+GoHighLevel
+Do not present Ahmed as someone who only works with one technology or one website builder.
+The central message is that he selects the appropriate development approach according to the actual needs of the project.
+Important:
+Do not associate specific technologies with individual client projects in the public-facing portfolio.
+Technologies can appear in a global capabilities section, but the project cards and case studies must focus on the business sector, project objectives, design decisions, implementation scope, and deliverables rather than the technology used.
+Never position Ahmed as a general-purpose full-stack developer, mobile app developer, or e-commerce specialist.
+Professional working philosophy
+Ahmed does not approach projects as a simple exercise in building attractive pages.
+His methodology starts with understanding the business, its audience, market, competitors, and communication objectives.
+He then develops the website structure, user journey, content hierarchy, visual direction, and conversion paths before moving into implementation.
+The final result should be a professional digital presence that communicates the business clearly, establishes credibility, improves usability, and makes it easier for visitors to take action.
+Communication
+The portfolio supports Arabic and English.
+Professional communication is currently available in written form in both languages.
+Do not imply that English-speaking phone calls or spoken meetings are available.
+Use written inquiry channels such as WhatsApp, email, and the website contact form.
+Do not unnecessarily highlight language limitations. Simply make the communication experience writing-friendly.
+2. RESEARCH BEFORE DESIGN — MANDATORY
+Before making any design decisions, conduct a genuine visual and content audit.
+Do not start by generating a generic portfolio template.
+2.1 Study exceptional websites
+Research high-quality websites and creative portfolios using resources such as:
+Awwwards
+CSS Design Awards
+Godly
+SiteInspire
+One Page Love
+Lapa Ninja
+GSAP showcase
+Three.js showcase
+Other relevant high-quality creative developer portfolios.
+Study actual websites, not merely their thumbnails.
+Pay attention to:
+Art direction.
+Visual hierarchy.
+Typography.
+Composition and spacing.
+Hero presentation.
+3D integration.
+Interactive navigation.
+Scroll storytelling.
+Project presentation.
+Case study structure.
+Section transitions.
+Color systems.
+Editorial layouts.
+Light and dark themes.
+Mobile experiences.
+Micro-interactions.
+Reference inspiration:
+Made by Igor — https://madebyigor.com/
+Study its editorial visual language, expressive typography, interactive composition, and scroll-driven transitions.
+Valentin Gassend — Creative Developer Portfolio.
+Study its combination of WebGL, kinetic typography, project presentation, and immersive development aesthetics.
+Bruno Simon — https://bruno-simon.com/
+Study how an interactive 3D environment can express a developer's identity.
+Do not copy its game-like navigation or sacrifice usability for novelty.
+Tabasco WebGL Case Study — https://hilostudiolab.com/en/projects/tabasco
+Study how a 3D scene can communicate a story through purposeful scroll progression.
+These are references for design thinking, not templates to reproduce.
+Find additional references where necessary.
+2.2 Create an original visual direction
+Based on the research, establish a coherent design direction specifically for Ahmed.
+Do not copy any reference website.
+The finished website must have its own recognizable visual identity.
+Avoid:
+Generic SaaS website aesthetics.
+Repetitive gradient backgrounds.
+Generic glassmorphism everywhere.
+Excessively rounded cards.
+Random floating decorative elements.
+Unnecessary glowing effects.
+Generic template-like section arrangements.
+Excessive neon colors.
+Repeated layouts with different content.
+Cheap-looking stock illustrations.
+Random 3D objects without a conceptual purpose.
+The site should look art-directed, carefully composed, and professionally engineered.
+3. AUDIT THE EXISTING PORTFOLIO AND ASSETS
+Existing portfolio:
+https://ahmed-web1.vercel.app/
+This is the primary source of existing professional information and assets.
+Visit and inspect:
+Homepage.
+Work page.
+Existing case studies.
+About page.
+Services page.
+Contact page.
+Existing project links.
+Profile photograph.
+Social links.
+Email address.
+WhatsApp details.
+Existing project screenshots and images.
+Extract the actual information and reuse the appropriate assets.
+Do not blindly reuse the old design.
+The current website represents an older positioning and must be replaced by the new identity described in this document.
+Important contact details
+Use the existing verified contact information:
+Email:
+[ah.dev.3@gmail.com](mailto:ah.dev.3@gmail.com)
+WhatsApp:
+https://wa.me/201097926288
+LinkedIn:
+https://www.linkedin.com/in/ahmed-mohame-843909439
+Preserve the actual links and verify that they work.
+Retrieve the existing personal photograph from the old portfolio and use the genuine photograph.
+Do not generate a replacement face, use an unrelated stock portrait, or invent a different identity.
+If the repository contains the original assets, reuse them appropriately.
+4. PROJECT RESEARCH — MANDATORY BEFORE WRITING CASE STUDIES
+This is one of the most important parts of the task.
+Do not write superficial project descriptions based only on project names.
+Before creating each project card and case study:
+Visit the original live project URL.
+Explore the actual website.
+Inspect its homepage and important internal pages where available.
+Understand the business activity.
+Identify its target audience.
+Understand the services or products it presents.
+Examine its visual identity and page structure.
+Examine the mobile experience.
+Identify the actual implementation scope that can be established from existing project information.
+Capture genuine screenshots of the project for use in the portfolio.
+Use the existing portfolio descriptions as supporting information, not as a substitute for inspecting the websites.
+If a website is unavailable, inspect its existing screenshots, local assets, and project documentation.
+Never fabricate information to fill gaps.
+When certain details cannot be verified, write a more conservative and factual case study.
+4.1 Existing client projects
+The following projects are known client deliveries:
+Project 01 — Al Awad Residential & Commercial Solutions
+Live website:
+https://alawad-arch.com/
+Existing case study:
+https://ahmed-web1.vercel.app/work/al-awad-solutions
+Business sector:
+Commercial, residential, and industrial contracting solutions.
+Verified context:
+Kuwait-based business.
+Bilingual Arabic and English website.
+Multiple service divisions.
+Structured service presentation.
+Responsive layout.
+Delivered through a white-label agency collaboration.
+The case study should explain the challenge of organizing multiple business divisions into a clear website structure and presenting them properly in both RTL and LTR languages.
+Be accurate about Ahmed's delivery role. Existing information indicates implementation based on agency-approved design specifications.
+Project 02 — Al Nser Al Fadhi Grills & Traditional Cuisine
+Live website:
+https://silver-eagle.goonline.asia/
+Existing case study:
+https://ahmed-web1.vercel.app/work/al-nser-grills
+Business sector:
+Food, hospitality, and restaurants.
+Verified context:
+Kuwait restaurant.
+Arabic RTL website.
+Digital food menu.
+Organized food categories.
+WhatsApp ordering.
+Mobile-first presentation.
+White-label agency delivery.
+Study the live menu and present the actual website experience.
+Project 03 — Al Ibtikar Auto Maintenance Center
+Live website:
+https://aliabtikar.goonline.asia/
+Existing case study:
+https://ahmed-web1.vercel.app/work/al-ibtikar-auto
+Business sector:
+Automotive services and maintenance.
+Verified context:
+Kuwait automotive service provider.
+Arabic RTL interface.
+Categorized maintenance services.
+Direct contact and inquiry options.
+Mobile-oriented presentation.
+White-label agency delivery.
+Explain how the service structure helps visitors identify relevant automotive services and contact the business.
+Project 04 — Safeer Al Oamara Traditional Attire
+Live website:
+https://safiralamara.com/
+Existing case study:
+https://ahmed-web1.vercel.app/work/safeer-al-oamara
+Business sector:
+Retail, fashion, and traditional attire.
+Verified context:
+Traditional Kuwaiti menswear.
+Arabic RTL website.
+Product and collection catalog.
+Visual product presentation.
+Direct inquiry and WhatsApp ordering.
+White-label agency delivery.
+Give the case study a visual direction that respects the heritage and premium retail nature of the business.
+Project 05 — Mobile Car Wash Kuwait (A2Z Wash)
+Live website:
+https://a2zwash.goonline.asia/
+Existing case study:
+https://ahmed-web1.vercel.app/work/mobile-car-wash-kuwait
+Business sector:
+Automotive detailing and on-demand services.
+Verified context:
+Mobile car wash and detailing service.
+Package-based presentation.
+Pricing information.
+Direct WhatsApp booking.
+Conversion-focused mobile layout.
+White-label agency delivery.
+Explain the user journey from discovering a service to selecting a package and contacting the provider.
+4.2 Existing independent front-end concepts
+The old portfolio also includes self-initiated concepts.
+These must be visually distinguished from actual client deliveries.
+Never present an independent concept as a commissioned client project.
+Project 06 — BoomTwon Travel Website Concept
+https://boo-town.vercel.app/
+Existing case study:
+https://ahmed-web1.vercel.app/work/boomtwon-travel
+Sector:
+Travel and tourism.
+Inspect the actual concept and document its destination presentation, promotional structure, and inquiry experience.
+Project 07 — HooBank Finance Website Concept
+https://hoo-bank-cyan-rho.vercel.app/
+Existing case study:
+https://ahmed-web1.vercel.app/work/hoobank-financial
+Sector:
+Finance and fintech.
+Inspect the actual interface and document its financial product presentation and visual communication.
+Project 08 — UrbanBuild Construction Website Concept
+https://real-estate-livid-eta.vercel.app/
+Existing case study:
+https://ahmed-web1.vercel.app/work/urbanbuild-construction
+Sector:
+Construction and real estate.
+Inspect the website and document its presentation of services, projects, and inquiry paths.
+Project 09 — MedTro Healthcare Website Concept
+https://clinic-app-theta.vercel.app/
+Existing case study:
+https://ahmed-web1.vercel.app/work/medtro-healthcare
+Sector:
+Healthcare and medical services.
+Inspect the actual project and document its departmental structure, provider presentation, and appointment interface where present.
+Project 10 — SaaS Productivity Website Concept
+https://saas-landing-page-sigma-mauve.vercel.app/
+Existing case study:
+https://ahmed-web1.vercel.app/work/saas-productivity
+Sector:
+Technology and SaaS.
+Inspect its product presentation and landing page structure.
+4.3 Additional independent project — Mيثاق
+Project:
+مِيثاق | المحاماة والاستشارات القانونية
+Live demonstration:
+https://the-legal-profession-swj43.vercel.app/
+This is an independent legal website concept and a particularly important addition to the portfolio.
+It demonstrates an advanced custom-developed website with a distinctive visual direction, immersive details, 3D elements, and animation.
+Inspect the full live experience.
+Study:
+Hero composition.
+Arabic typography.
+Legal brand identity.
+Navigation.
+Section hierarchy.
+3D elements.
+Interactive behavior.
+Animation.
+Mobile responsiveness.
+Visual storytelling.
+Content structure.
+Create an excellent case study explaining the concept, its visual direction, the intended professional impression, and the main experience and implementation decisions that are actually observable.
+Classify it as:
+Independent Concept / Experimental Website Build
+Do not describe it as an actual client delivery.
+Do not invent a law firm, client engagement, or measurable business outcome.
+4.4 Project authenticity and disclosure
+Keep client projects and independent concepts distinguishable.
+Use clear labels such as:
+Client Project
+Agency Collaboration
+Independent Concept
+Do not publicly expose implementation technologies beside individual project names or inside their case study metadata.
+Show the business sector instead.
+If a project was implemented from an agency-approved design or wireframe, do not falsely claim that Ahmed independently created the complete original visual identity.
+Accurately describe the actual role and contribution.
+4.5 Portfolio project discovery
+Search the existing project repository and existing portfolio for additional genuine projects.
+The confirmed professional experience is 26+ websites, but that does not mean every project needs a detailed public case study.
+Prioritize quality and evidence over quantity.
+Do not invent the remaining projects or fabricate screenshots.
+Use a curated selection of the strongest verified projects.
+5. CREATIVE DIRECTION — ART DIRECTION AND DESIGN SYSTEM
+Establish an original, premium visual language.
+Proposed direction:
+Spatial Editorial / Immersive Digital Craft.
+Combine:
+High-end editorial typography.
+Architectural compositions.
+Sophisticated negative space.
+Refined layout grids.
+Dimensional 3D objects.
+Purposeful motion.
+Asymmetric section compositions.
+Premium image presentation.
+Subtle technical details.
+Confident business-oriented content.
+The website should feel visually expressive without sacrificing readability or professionalism.
+Color direction
+Create a distinctive color system.
+Consider:
+Deep charcoal / near-black
+Warm ivory / off-white
+Muted neutral grays
+A distinctive acid-lime or soft chartreuse accent
+A restrained secondary accent when needed
+The exact color values should be selected after establishing the overall art direction.
+Avoid making every element colorful.
+Accent colors should be intentional and consistent.
+Both themes must look individually art-directed.
+Do not simply invert the colors.
+Typography
+Typography is a core component of the design.
+Use carefully selected typefaces.
+Suggested direction:
+English:
+Geist
+Manrope
+Instrument Serif for selective editorial accents, where appropriate.
+Arabic:
+IBM Plex Sans Arabic
+Alexandria
+Another high-quality Arabic typeface if research suggests a better fit.
+Use next/font where appropriate.
+Ensure correct font loading, weight selection, and rendering.
+Critical Arabic typography requirements
+Arabic text should generally be slightly larger than its English equivalent.
+Use approximately 5–8% larger Arabic body sizing where appropriate.
+Suggested starting values:
+English body: 16–18px.
+Arabic body: 17–19px.
+English body line-height: approximately 1.55–1.7.
+Arabic body line-height: approximately 1.7–1.9.
+These are design starting points, not rigid values.
+Adjust sizes according to the selected font's actual metrics.
+Arabic paragraphs must not become excessively wide.
+Check:
+Arabic font rendering.
+Letter and word spacing.
+Heading wrapping.
+Paragraph density.
+Button dimensions.
+Navigation alignment.
+Mobile text overflow.
+Arabic numerals and punctuation.
+RTL icon positioning.
+Correct mixed-language handling.
+Never use automatic directional flipping as a substitute for proper RTL layout design.
+Every layout must be consciously evaluated in both languages.
+6. DARK MODE AND LIGHT MODE
+Implement a fully functional theme system.
+Both themes must feel intentional and premium.
+Dark mode:
+Deep charcoal surfaces.
+Carefully balanced contrast.
+Refined lighting in 3D scenes.
+Subtle depth.
+Elegant borders and surface distinctions.
+Clear text hierarchy.
+Light mode:
+Warm paper-like backgrounds.
+Deep readable typography.
+Restrained accents.
+Beautiful image treatment.
+Delicate shadows and surfaces.
+Proper contrast.
+Requirements:
+A visible theme toggle.
+Smooth theme transitions.
+Persistent theme preference.
+Respect system preference on first visit.
+Avoid hydration mismatch and theme flashing.
+Update relevant 3D scene materials and lighting when the theme changes.
+Ensure every interactive state remains visible in both themes.
+Do not implement a theme switch that changes only the page background.
+7. WEBSITE ARCHITECTURE AND INFORMATION HIERARCHY
+Build a complete multi-page website.
+Recommended architecture:
+Homepage
+Selected Work / Projects
+Individual Case Study pages
+Services
+About
+Contact
+Also provide:
+Custom 404 page.
+Loading and navigation transitions.
+Functional navigation.
+Accessible mobile menu.
+Keep the structure purposeful.
+Do not create unnecessary pages merely to increase page count.
+Each page must have a clear role within the user's journey.
+7.1 Homepage
+The homepage should communicate Ahmed's value immediately.
+Recommended section architecture:
+Section 01 — Immersive Hero
+This is the most visually important section.
+Create a powerful and memorable opening experience.
+Content:
+Professional eyebrow:
+WEBSITE DESIGN · DEVELOPMENT · DIGITAL SOLUTIONS
+Primary English headline:
+"Websites that make your business easier to understand — and easier to choose."
+Suggested Arabic headline:
+"مواقع تُظهر قيمة أعمالك، وتمنح عملاءك سببًا واضحًا لاختيارك."
+Supporting English copy:
+"I design and develop business-focused websites, marketing pages, and personal platforms through thoughtful strategy, distinctive design, and carefully engineered development."
+Suggested Arabic copy:
+"أصمم وأطوّر مواقع احترافية للشركات والأنشطة التجارية والأفراد، تبدأ من فهم أهداف المشروع وتنتهي بتجربة رقمية واضحة ومتقنة."
+Primary CTA:
+View Selected Work / استكشف أعمالي
+Secondary CTA:
+Discuss Your Project / ناقش مشروعك
+Include:
+Ahmed's genuine photograph from the existing portfolio.
+Professional availability indicator only if still accurate.
+2+ years of experience.
+26+ websites built.
+Appropriate visual credibility elements.
+Hero 3D concept
+Develop a custom 3D visual that represents the idea of digital architecture and professional website construction.
+Recommended creative direction:
+An abstract architectural sculpture composed of layered translucent surfaces, geometric frames, floating interface planes, and subtle dimensional structures.
+The visual should communicate:
+Strategy → Structure → Design → Development.
+It could evolve subtly as the page scrolls.
+Think of the object as a sophisticated representation of a digital environment being assembled.
+Use realistic materials, precise lighting, refined shadows, depth, and controlled motion.
+Avoid:
+Generic rotating cubes.
+Random floating spheres.
+Video-game aesthetics.
+Excessive particle systems.
+Visually noisy environments.
+The 3D visual must complement the hero content rather than compete with it.
+The headline and CTA must remain immediately readable.
+Section 02 — Credibility / Experience
+Create an elegant proof section.
+Present:
+26+ Websites Built
+2+ Years of Experience
+Arabic & English Projects
+Gulf Agency Collaboration
+The composition could use large editorial typography, a horizontal proof strip, or another visually interesting structure.
+Do not turn it into four generic rounded statistic cards.
+Section 03 — Selected Work
+Present a carefully curated selection of the strongest projects.
+Use at least four featured projects, selected according to visual quality and professional relevance.
+Recommended candidates:
+Al Awad
+ميثاق
+A2Z Wash
+Safeer Al Oamara
+Another strong verified project.
+Make the layouts visually diverse.
+Possible compositions:
+Large editorial project feature.
+Asymmetric two-column image layouts.
+Layered browser/device mockups.
+Overlapping image compositions.
+Horizontal project showcases.
+Interactive image reveals.
+Do not use the same card design repeatedly.
+Each project should communicate its business sector and its nature as a client project or independent concept.
+CTA:
+Explore All Projects.
+Section 04 — Services
+Introduce Ahmed's primary services.
+Create four clear service categories:
+Business Website Design & Development
+For companies and commercial activities that need a professional digital presence.
+Landing Pages & Marketing Websites
+For campaigns, service launches, lead generation, and focused marketing objectives.
+Personal Websites & Professional Portfolios
+For consultants, professionals, experts, and personal brands.
+Interactive & 3D Website Experiences
+For projects that need advanced visual storytelling, immersive interactions, and distinctive digital presentation.
+Each service must have:
+A clear title.
+A meaningful description.
+Its business value.
+What it includes.
+An appropriate visual treatment.
+A relevant CTA.
+Do not overuse icons.
+Use different visual compositions to make each service distinct.
+Section 05 — Working Approach
+Show the methodology through a compelling visual narrative.
+Five stages:
+Research & Discovery
+Understanding the business, audience, market, competitors, and objectives.
+Strategy & Planning
+Creating the website structure, content hierarchy, and user journey.
+Design & User Experience
+Defining visual direction, typography, layout systems, and usability.
+Development & Implementation
+Building the website using the most appropriate development approach.
+Testing & Optimization
+Checking responsive behavior, performance, usability, and technical quality.
+Use an animated timeline, architectural sequence, or another distinctive layout.
+It should feel like a coherent process rather than a generic numbered list.
+Section 06 — Capabilities / Development Flexibility
+Explain the two main development approaches.
+Custom Development:
+React, Next.js, TypeScript, Tailwind CSS, Three.js, and GSAP.
+Visual Development:
+Webflow, Wix, Framer, and GoHighLevel.
+The message:
+The right development approach depends on what the business actually needs.
+Show the ability to combine visual design, custom development, and visual website platforms without making technology the central selling proposition.
+Do not associate these technologies with individual projects.
+Avoid generic progress bars and fake skill percentages.
+Section 07 — About Ahmed
+Create an editorial, visually distinctive profile section.
+Use the real portrait.
+Explain:
+Professional identity.
+2+ years of experience.
+26+ websites.
+Work across multiple business sectors.
+Arabic and English project experience.
+Previous Gulf agency collaboration.
+Business-oriented project methodology.
+Independent professional approach.
+The tone should be confident, clear, factual, and professional.
+Avoid exaggerated claims.
+Section 08 — Final Contact CTA
+End the homepage with a memorable visual composition.
+Suggested English heading:
+"Have a project that deserves a better digital presence?"
+Suggested Arabic heading:
+"لديك مشروع يحتاج إلى حضور رقمي يليق به؟"
+Provide:
+Start a Project / ابدأ مشروعك
+WhatsApp
+Email
+LinkedIn
+Use a sophisticated closing animation and strong typography.
+Do not simply repeat the hero design.
+8. DEDICATED PROJECTS PAGE
+Route:
+/[locale]/work
+Create an excellent project archive.
+This page must make browsing and discovering relevant projects effortless.
+Project filtering
+The filtering system must be based on BUSINESS SECTORS, NOT development technologies.
+Never create filters such as:
+React Projects / Webflow Projects / Wix Projects / GHL Projects.
+Instead, use commercially meaningful filters.
+Suggested categories:
+All Projects
+Business & Corporate
+Construction & Contracting
+Food & Hospitality
+Automotive & Mobility
+Retail & Lifestyle
+Legal & Professional Services
+Travel & Tourism
+Finance & Fintech
+Healthcare
+Technology & SaaS
+Only display filters that have relevant projects.
+Each project must have one or more appropriate business-sector categories based on actual research.
+Implement a proper functioning filter.
+Requirements:
+Smooth filtering transitions.
+Clear active state.
+No empty or broken results.
+Accessible filter controls.
+Responsive layouts.
+Correct count of visible projects if displayed.
+Smooth reset to All Projects.
+Also make the distinction between client projects and independent concepts clear.
+Project card design
+Cards must communicate:
+Project identity.
+Business sector.
+Project type: Client Project or Independent Concept.
+Short business-focused description.
+Relevant genuine visual preview.
+A clear View Case Study action.
+Do not show development technology labels.
+Use real screenshots from actual projects.
+Present screenshots inside premium compositions when appropriate:
+Desktop monitor mockups.
+Laptop frames.
+Mobile mockups.
+Layered responsive previews.
+Cropped visual details.
+Asymmetric editorial imagery.
+Do not force every project into the same mockup layout.
+The visual presentation must vary while maintaining consistent typography and branding.
+Do not use fabricated website screenshots or irrelevant stock imagery.
+9. CASE STUDY SYSTEM — VERY IMPORTANT
+Every selected project must have its own dedicated case study route.
+Case studies are a major part of the portfolio and must communicate professional thinking rather than simply displaying screenshots.
+Create a reusable case study architecture powered by structured project data.
+However, each project page should receive its own visual composition and content treatment.
+Do not make every case study identical in visual appearance.
+Required case study structure
+01. Project Introduction
+Project name.
+Business sector.
+Project classification.
+Short strategic introduction.
+Strong project visual.
+Relevant live website link when verified and accessible.
+02. Project Overview
+Provide a compact project snapshot:
+Business activity.
+Market or location where verified.
+Languages supported.
+Delivery role.
+Type of project.
+Do not mention the development technology used for this particular project.
+03. The Context
+Explain what the business does and what its website needs to communicate.
+04. The Challenge
+Identify the actual communication, structure, usability, or conversion challenge.
+Do not invent a challenge.
+05. Strategic Thinking
+Explain the design and content decisions that address the identified challenge.
+06. Design and User Experience
+Discuss:
+Visual hierarchy.
+Page structure.
+Content organization.
+User journey.
+Mobile usability.
+Brand alignment.
+Only describe work that can actually be verified.
+07. Execution and Deliverables
+Explain the real scope of work performed.
+For agency collaborations, describe Ahmed's actual implementation contribution accurately.
+08. Final Website Experience
+Present high-quality screenshots of the real delivered website.
+Use different screenshot compositions.
+Include desktop and mobile views where available.
+09. Project Outcome / Closing Notes
+Explain what the delivered website provides.
+Do not invent conversion statistics or measurable business improvements.
+When no quantitative data exists, discuss tangible deliverables rather than fake results.
+10. Next Project
+Create an elegant navigation element for discovering the next case study.
+11. Relevant CTA
+Invite business owners with similar requirements to discuss a project.
+Case study visual creativity
+Some case studies can use:
+Large editorial headlines.
+Sticky visual panels.
+Scroll-driven image sequences.
+Split-screen layouts.
+Asymmetric galleries.
+Before/after comparisons only when actual source material exists.
+Subtle parallax.
+Animated section introductions.
+Horizontal screenshot galleries.
+Distinctive typography treatments.
+Use these techniques selectively.
+The content must remain readable and the pages should not become unnecessarily long.
+Each case study should take advantage of the project's business character.
+For example:
+A luxury traditional attire website should have an elegant editorial visual language.
+A restaurant case study may emphasize menu organization and mobile ordering.
+An automotive service website may emphasize clear service categories and fast contact.
+A legal concept may use a more architectural, sophisticated presentation.
+The case studies must tell different stories.
+10. SERVICES PAGE
+Route:
+/[locale]/services
+Create a premium service presentation page.
+The purpose is to help potential clients understand what they can commission.
+Include:
+Business Website Design & Development
+Professional websites for:
+Companies.
+Commercial businesses.
+Service providers.
+Professional firms.
+Agencies.
+Explain the value of clear business presentation, structured information, responsive layouts, and direct inquiry paths.
+Landing Pages & Marketing Websites
+Explain:
+Campaign-specific page structure.
+Clear messaging.
+CTA hierarchy.
+Lead generation paths.
+Focused user journeys.
+Content and section sequencing.
+Do not promise guaranteed conversion results.
+Personal Websites & Professional Portfolios
+Explain the importance of a strong professional presence, clear positioning, and organized presentation of expertise and work.
+Interactive & 3D Website Experiences
+Explain the value of immersive visuals, advanced animation, and custom interactive elements.
+Make clear that advanced 3D is used when it serves the concept and project objectives, not as unnecessary decoration.
+Agency & Studio Collaboration
+Present previous agency collaboration experience.
+Explain the possibility of:
+White-label website delivery.
+Project-based development.
+Ongoing website implementation support.
+Collaboration with design and marketing teams.
+Do not invent agency names or testimonials.
+Every service should have a relevant CTA.
+11. ABOUT PAGE
+Route:
+/[locale]/about
+This page should build trust and provide a more complete understanding of Ahmed's professional identity.
+It should not simply repeat the homepage.
+Create a distinctive editorial layout that incorporates:
+Actual portrait.
+Professional story.
+Experience.
+Project scope.
+Professional philosophy.
+Business-focused methodology.
+Technical flexibility.
+Agency experience.
+Selected projects.
+Contact CTA.
+Write a genuine professional narrative.
+Do not claim that Ahmed is an established agency or has a large team.
+Position him as an independent professional offering agency-quality website design and development.
+12. CONTACT PAGE
+Route:
+/[locale]/contact
+Build a premium, functional inquiry experience.
+The page should encourage serious business inquiries.
+Suggested structure:
+Strong introductory headline.
+Short description of suitable projects.
+Simple inquiry form.
+Direct WhatsApp option.
+Email address.
+LinkedIn.
+Written communication information in Arabic and English.
+Form fields:
+Name.
+Email.
+Business or project name (optional).
+Project type.
+Project description.
+Relevant website or reference (optional).
+The form must actually work.
+Use the verified WhatsApp destination as a fallback or delivery mechanism if no configured server-side email integration exists.
+A WhatsApp form submission may construct a clean, encoded inquiry message and open the verified WhatsApp conversation.
+If email delivery is implemented, configure and test it using valid credentials already available in the environment.
+Never pretend that an inquiry was successfully sent when no actual delivery mechanism exists.
+Provide proper validation, loading state, error state, and submission feedback.
+Do not create fake social links.
+13. NAVIGATION AND PAGE TRANSITIONS
+Build a polished global navigation system.
+Desktop:
+Minimal brand wordmark.
+Selected Work.
+Services.
+About.
+Contact.
+Language switcher.
+Theme toggle.
+Primary project inquiry CTA.
+The header should have a refined appearance.
+Use an appropriate sticky or fixed behavior.
+On scroll, it may reduce in height or change its background intelligently.
+Avoid a header that consumes excessive screen space.
+Mobile navigation
+This is a critical area.
+The mobile header must be fully functional.
+Requirements:
+Well-designed menu toggle.
+Proper open and close animation.
+Accessible menu state.
+Correct z-index.
+No accidental overlap.
+Correct RTL and LTR behavior.
+Close after navigation.
+Support Escape key.
+Prevent background scrolling while the menu is open.
+Restore scroll behavior after closing.
+Keep all navigation actions accessible.
+Page transition system
+Create a distinctive transition between internal pages.
+The transition should include:
+Ahmed's wordmark or visual identity.
+An elegant progress indicator.
+Subtle motion.
+A refined visual reveal.
+Do not introduce unnecessary loading delays.
+Target approximately 400–700ms for normal transitions.
+The maximum intentional blocking time must not exceed 2 seconds.
+Do not artificially delay navigation just to display an animation.
+The content must become available immediately when ready.
+Handle reduced-motion preferences.
+Do not break:
+Browser back and forward navigation.
+Direct URL navigation.
+External links.
+Anchor navigation.
+Search-engine rendering.
+14. 3D AND MOTION ENGINEERING
+3D and animation are among the most important visual characteristics of this portfolio.
+However, they must be implemented professionally.
+Recommended stack
+Core:
+Next.js App Router.
+React.
+TypeScript.
+Tailwind CSS.
+3D:
+Three.js.
+@react-three/fiber where suitable.
+@react-three/drei where necessary.
+Animation:
+GSAP.
+GSAP ScrollTrigger.
+Optional additions:
+Lenis for smooth scrolling, only if correctly integrated.
+A lightweight motion library for limited UI interactions if genuinely useful.
+Additional shader or rendering utilities only where required.
+Do not install unnecessary libraries.
+Do not use multiple animation systems to achieve the same effect.
+GSAP should be the primary animation system for complex scroll-driven and timeline-based sequences.
+Hero animation
+Create a genuinely impressive hero 3D composition.
+Possible behaviors:
+Subtle cursor-based camera movement.
+Controlled object rotation.
+Depth and lighting changes.
+Floating geometric structures.
+Scroll-linked evolution.
+Subtle interaction feedback.
+The scene should feel premium and purposeful.
+Scroll-driven animations
+Every major section should have a visual identity.
+Use an intentional variety of techniques:
+Scroll-triggered reveals.
+Staggered typography.
+Clip-path image reveals.
+Mask animations.
+Parallax layers.
+Horizontal visual storytelling where appropriate.
+Controlled sticky scenes.
+3D object transitions.
+Text transformations.
+Image scale transitions.
+Progress indicators.
+Sophisticated hover interactions.
+Different sections should not simply repeat the same fade-up animation.
+Each animation must have a clear visual purpose.
+Avoid overly long pinned sections that prevent visitors from navigating naturally.
+Never hide essential content permanently because an animation failed to initialize.
+Content must remain visible even when JavaScript or WebGL is unavailable.
+Performance requirements for Three.js
+This is non-negotiable.
+Use:
+Proper canvas dimensions.
+Responsive rendering.
+Controlled device pixel ratio.
+Efficient geometries and materials.
+Optimized lighting.
+Minimal unnecessary post-processing.
+Proper resource cleanup.
+Lazy loading for secondary 3D scenes.
+Static or simplified fallbacks on unsupported devices.
+Intersection-based rendering control where useful.
+No unnecessary React state updates every animation frame.
+Do not render unnecessarily detailed scenes on mobile.
+Use a lower-quality scene or a carefully designed static visual when device constraints require it.
+Do not force every section to depend on WebGL.
+Keep primary website content as real HTML.
+Use prefers-reduced-motion and accessible fallbacks.
+Animations must never interfere with essential information.
+15. SCROLL AND INTERACTION QUALITY
+Motion must support the information architecture.
+Do not animate everything.
+Use a coherent motion language across the entire website.
+Create animation categories:
+Entrance animations.
+Scroll-linked animations.
+Hover interactions.
+Navigation transitions.
+Image interactions.
+3D interactions.
+Micro-interactions.
+Establish consistent timing, easing, and movement principles.
+Use sophisticated easing rather than generic linear transitions for everything.
+Implement GSAP timelines cleanly.
+Use proper cleanup when components unmount.
+Make responsive animation decisions with gsap.matchMedia().
+Provide reduced-motion behavior.
+Do not allow animation errors to produce invisible text or inaccessible content.
+16. BILINGUAL LOCALIZATION — ARABIC AND ENGLISH
+The website must be completely bilingual.
+This is a full localization requirement, not an automatic translation requirement.
+Use proper localized routing, preferably:
+/ar/...
+/en/...
+Use a suitable Next.js internationalization architecture, such as next-intl with the App Router.
+Set the proper language and direction attributes.
+Arabic:
+lang="ar"
+dir="rtl"
+English:
+lang="en"
+dir="ltr"
+Translation and localization quality
+Do not translate the English text literally into Arabic.
+Create two independently written versions that communicate the same business value naturally.
+English content requirements
+Use polished, natural professional English suitable for Western business audiences.
+Avoid:
+Awkward literal phrasing.
+Excessively complicated vocabulary.
+Artificial corporate jargon.
+Generic AI-generated marketing language.
+Overused expressions such as "unlock your digital potential" without meaningful substance.
+Writing style:
+Clear, confident, concise, business-oriented, and credible.
+Arabic content requirements
+Use professional Arabic appropriate for Gulf business audiences.
+Avoid:
+Egyptian colloquial language.
+Unnatural literal translations.
+Excessive formal literary expressions.
+Weak generic marketing statements.
+Writing style:
+Professional, contemporary, clear, commercially appropriate Arabic.
+The Arabic version should read like an original website written for Arabic-speaking businesses.
+Direction-sensitive components
+Check both languages carefully for:
+Navigation.
+Breadcrumbs.
+Buttons.
+Icons.
+Cards.
+Filters.
+Forms.
+Progress indicators.
+Carousels.
+Timelines.
+3D labels.
+Image captions.
+Page transitions.
+Ensure direction-sensitive icons change appropriately.
+Do not mirror every icon indiscriminately.
+Language switcher
+The language switcher must:
+Work on every page.
+Preserve the current page when a matching translation exists.
+Preserve the current project when switching within its case study.
+Maintain theme preference.
+Update the correct direction and fonts.
+Never lead to broken or missing routes.
+If translation data is incomplete, use an explicit safe fallback.
+Do not silently switch to the homepage for every language change.
+17. RESPONSIVE DESIGN
+The website must be designed for all major screen sizes.
+Do not design desktop first and simply shrink everything down.
+Pay special attention to mobile.
+Test at least these viewport widths:
+320px
+360px
+375px
+390px
+414px
+480px
+768px
+1024px
+1280px
+1440px
+1920px
+Desktop
+Strong visual compositions.
+Intentional whitespace.
+Appropriate content width.
+Beautiful use of 3D.
+Balanced typography.
+High-quality project presentation.
+Tablet
+Adapted grid systems.
+Correct typography.
+Reduced scene complexity if required.
+Proper navigation.
+No broken layout transitions.
+Mobile
+Properly stacked layouts.
+Optimized images.
+Controlled 3D visuals.
+Readable Arabic typography.
+Appropriate line lengths.
+Comfortable interaction targets.
+Working mobile header.
+Correct image cropping.
+No horizontal overflow.
+Absolute requirement
+There must be no accidental horizontal page overflow at any supported viewport.
+Inspect:
+Text overflow.
+Fixed-width containers.
+Wide images.
+Canvas sizing.
+Translated elements.
+Animated elements.
+Navigation.
+Project mockups.
+Mobile drawers.
+Long Arabic headings.
+Do not solve overflow by blindly applying overflow-x: hidden to the whole website.
+Identify and correct the actual layout issue.
+18. SEO AND PERFORMANCE
+Build the website with production SEO requirements.
+Use:
+Semantic HTML.
+Proper heading hierarchy.
+Descriptive titles.
+Unique metadata for every route.
+Localized metadata.
+Canonical URLs.
+hreflang.
+Open Graph metadata.
+Twitter metadata.
+sitemap.xml.
+robots.txt.
+Structured data where appropriate.
+Descriptive image alt text.
+Internal linking.
+Optimized image delivery.
+Proper page URLs.
+Clean page architecture.
+Use relevant structured data such as:
+Person.
+WebSite.
+ProfessionalService where appropriate and truthful.
+Do not invent a business address or company details.
+Create descriptive titles and meta descriptions in both languages.
+Performance
+Use Next.js image optimization.
+Use next/font or appropriately optimized local fonts.
+Load nonessential images and 3D scenes lazily.
+Avoid excessive client-side JavaScript.
+Use Server Components by default and Client Components only when necessary.
+Avoid unnecessary hydration.
+Avoid layout shifts during font and image loading.
+Optimize project screenshots.
+Use compressed WebP or AVIF when appropriate.
+Do not load multiple large 3D scenes on the initial page.
+Measure actual performance instead of making unsupported claims.
+Target strong Lighthouse scores, ideally 90+ in Performance, Accessibility, Best Practices, and SEO where the experience and testing conditions allow.
+Do not sacrifice the visual quality for unnecessary technical complexity, but do not sacrifice performance for decorative effects either.
+19. TECHNICAL ARCHITECTURE AND CODE QUALITY
+Use a maintainable project structure.
+Prefer:
+Next.js App Router.
+TypeScript strict mode.
+Tailwind CSS.
+Reusable components.
+Centralized design tokens.
+Structured bilingual content.
+Typed project data.
+Reusable case study layouts.
+Shared navigation and footer.
+Reusable theme and localization systems.
+Isolated 3D components.
+Clean GSAP animation utilities.
+Separate project content from presentation.
+A project data model should include appropriate fields such as:
+slug
+localized title
+localized summary
+business sector
+project classification
+market
+languages
+role
+challenge
+strategy
+execution
+deliverables
+project observations
+live URL
+screenshots
+featured status
+Do not include a public-facing technology-stack field for individual projects.
+Implement filtering using the business-sector field.
+Use reliable naming conventions.
+Avoid:
+Unnecessary dependencies.
+Duplicate components.
+Unnecessary client components.
+Uncontrolled global state.
+Hardcoded repeated content.
+Massive single-file components.
+any types.
+Console warnings.
+Hydration mismatches.
+Broken animation cleanup.
+Dead buttons.
+Placeholder links.
+Fake form success messages.
+Keep the code understandable and maintainable.
+20. ACCESSIBILITY AND USABILITY
+Implement proper accessibility standards.
+Include:
+Keyboard navigation.
+Visible focus states.
+Semantic buttons and links.
+Proper ARIA attributes.
+Accessible forms.
+Appropriate contrast.
+Reduced-motion support.
+Meaningful alternative text.
+Accessible menu behavior.
+Proper focus management for dialogs and mobile navigation.
+Do not let visual creativity reduce usability.
+All important information must remain accessible even when animations are disabled.
+21. VISUAL QUALITY CONTROL
+Do not consider the project complete merely because the website renders.
+Perform visual inspection.
+Inspect every route in both languages and both themes.
+Review:
+Composition.
+Typography.
+Spacing.
+Alignment.
+Image quality.
+Animation timing.
+3D quality.
+Responsive behavior.
+Contrast.
+Navigation.
+Content density.
+Section transitions.
+Look for common design defects:
+Sections that look too similar.
+Uneven spacing.
+Weak visual hierarchy.
+Excessive text.
+Oversized buttons.
+Unbalanced project grids.
+Poor screenshot cropping.
+Arabic text that appears too small.
+English headlines that wrap awkwardly.
+Inconsistent visual weight.
+Unnecessary decorative objects.
+Empty areas that look accidental.
+Excessive use of the same cards.
+Make improvements rather than accepting the first implementation.
+Each section must look intentionally art-directed.
+22. TESTING AND FINAL QUALITY ASSURANCE
+Before delivery, perform a complete quality assurance process.
+Do not skip this stage.
+Functional testing
+Test:
+Every internal link.
+Every external link.
+Main navigation.
+Mobile navigation.
+Theme switcher.
+Language switcher.
+Project filters.
+Project card navigation.
+Every case study.
+Contact form.
+WhatsApp links.
+Email links.
+LinkedIn link.
+Page loading.
+Browser back and forward navigation.
+404 page.
+Loading transitions.
+No dead buttons.
+No broken routes.
+No fake interactions.
+Responsive testing
+Test all specified viewport sizes.
+Specifically verify:
+No horizontal overflow.
+No clipped content.
+Correct Arabic RTL layout.
+Correct English LTR layout.
+Correct mobile header.
+Correct button sizes.
+Correct section spacing.
+Correct image scaling.
+Appropriate 3D fallback behavior.
+Animation testing
+Inspect every animation.
+Confirm:
+Animations initialize correctly.
+GSAP ScrollTriggers are cleaned up.
+Animations respond to viewport changes.
+No elements remain invisible.
+No animation blocks navigation.
+No scroll locking bugs.
+No excessive animation on mobile.
+No major frame-rate problems.
+Reduced motion is respected.
+Page transitions work on direct navigation and browser history.
+Performance and technical testing
+Run the applicable project checks, including:
+npm run lint
+npm run typecheck, if configured.
+npm run build.
+Resolve all relevant errors.
+Inspect:
+Browser console.
+Build output.
+Network requests.
+Missing images.
+Broken assets.
+Failed font requests.
+Hydration issues.
+TypeScript errors.
+Runtime errors.
+404 routes.
+Use Playwright or another browser testing tool if available.
+Take actual screenshots of:
+Homepage desktop.
+Homepage mobile.
+Projects page.
+Case study pages.
+Arabic homepage.
+English homepage.
+Dark theme.
+Light theme.
+Do not rely exclusively on code inspection.
+Look at the actual rendered result.
+Final production checklist
+The website is only ready for delivery when:
+All requested pages are implemented.
+All content is complete.
+Arabic and English are properly localized.
+Theme switching works.
+Project filtering works.
+Case studies contain verified information.
+Actual project images are used.
+Navigation works on desktop and mobile.
+All important animations work.
+3D scenes have proper fallbacks.
+No horizontal overflow exists.
+No visible layout defects remain.
+No critical build errors remain.
+No broken internal routes remain.
+Contact methods work.
+SEO foundations are implemented.
+The production build succeeds.
+Do not claim that everything is 100% correct without actually testing it.
+Provide a concise final QA report identifying what was tested, what passed, and whether any limitations remain.
+23. EXECUTION ORDER
+Follow this implementation order.
+Phase 01 — Audit
+Inspect the existing repository.
+Inspect the old portfolio.
+Retrieve the genuine profile photograph and contact information.
+Explore all known project URLs.
+Research visual references.
+Review existing dependencies and architecture.
+Identify reusable assets.
+Phase 02 — Creative Direction
+Establish the design concept.
+Define colors and typography.
+Define layout rules.
+Design dark and light themes.
+Define the animation language.
+Design the hero 3D concept.
+Define the site information architecture.
+Phase 03 — Content Strategy
+Organize all projects.
+Verify project information.
+Separate client work from independent concepts.
+Write professional case studies.
+Write Arabic and English content independently.
+Organize service descriptions and professional biography.
+Phase 04 — Core Implementation
+Set up the Next.js architecture.
+Configure TypeScript and Tailwind CSS.
+Configure localization.
+Configure theme management.
+Build global components.
+Build navigation and footer.
+Implement the main responsive layout.
+Phase 05 — Creative Development
+Build the 3D hero.
+Implement GSAP animation systems.
+Implement scroll interactions.
+Build distinctive section compositions.
+Implement page transitions.
+Create responsive 3D fallbacks.
+Phase 06 — Page Development
+Homepage.
+Projects page.
+Case study templates and individual routes.
+Services page.
+About page.
+Contact page.
+404 page.
+Phase 07 — Optimization
+Image optimization.
+Font optimization.
+Rendering optimization.
+SEO implementation.
+Accessibility refinements.
+Responsive refinements.
+Phase 08 — Final QA
+Visual inspection.
+Functional testing.
+Animation testing.
+Arabic and English testing.
+Theme testing.
+Mobile testing.
+Build verification.
+Final issue resolution.
+Phase 09 — Delivery
+Deliver the completed working website and a short technical handover.
+Include:
+Implemented pages.
+Main technologies and dependencies.
+Location of portfolio project data.
+How to update projects.
+How to add new Arabic and English case studies.
+How to update social links and contact details.
+Environment variables, if any.
+Build and deployment instructions.
+Final QA results.
+24. FINAL CREATIVE STANDARD
+This is the most important creative instruction.
+Do not produce an average freelancer portfolio.
+Do not settle for a beautiful hero followed by ordinary repetitive sections.
+Do not use generic templates.
+Do not equate visual complexity with design quality.
+Every major section should feel like it was designed specifically for its content.
+The website should have:
+A memorable identity.
+Strong art direction.
+Exceptional typography.
+Excellent content quality.
+Meaningful 3D.
+Sophisticated motion.
+Distinctive section compositions.
+Excellent case studies.
+Professional bilingual localization.
+Exceptional mobile usability.
+Strong technical foundations.
+The visitor should be able to understand within seconds:
+Who Ahmed is.
+What he specializes in.
+What types of websites he builds.
+Why his approach is different.
+What experience he has.
+How to explore his previous work.
+How to start a project.
+The website must simultaneously impress creative professionals and establish confidence among business owners and agency partners.
+Prioritize craftsmanship over visual gimmicks, business clarity over technical showmanship, and meaningful interactions over excessive motion.
+You have full creative and technical freedom within these requirements.
+Research deeply, design deliberately, engineer carefully, inspect the actual rendered website, and deliver a complete production-ready result.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-11-11T23:57:36+02:00.
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from None to Gemini 3.8 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

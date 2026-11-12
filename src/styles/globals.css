@@ -1,0 +1,149 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Light Theme (Warm Architectural Paper / Ivory) */
+  --background: #fbfbfa;
+  --foreground: #121417;
+  --surface: #ffffff;
+  --surface-hover: #f3f3ef;
+  --surface-elevated: #eaeae4;
+  --border: rgba(18, 20, 23, 0.08);
+  --border-strong: rgba(18, 20, 23, 0.16);
+  --accent: #2c5e00;
+  --accent-foreground: #ffffff;
+  --accent-dim: rgba(77, 138, 14, 0.1);
+  --accent-hover: #224900;
+  --text-muted: #565d68;
+  --text-subtle: #848c99;
+}
+
+.dark {
+  /* Dark Theme (Deep Charcoal / Spatial Obsidian) */
+  --background: #08090b;
+  --foreground: #f2f3f5;
+  --surface: #101216;
+  --surface-hover: #161920;
+  --surface-elevated: #1e222b;
+  --border: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.15);
+  --accent: #d4ff32;
+  --accent-foreground: #08090b;
+  --accent-dim: rgba(212, 255, 50, 0.12);
+  --accent-hover: #c4f028;
+  --text-muted: #9198a4;
+  --text-subtle: #565c68;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.3s cubic-bezier(0.16, 1, 0.3, 1), color 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* RTL Specific Rules */
+[dir="rtl"],
+[dir="rtl"] *,
+[dir="rtl"] *::before,
+[dir="rtl"] *::after {
+  letter-spacing: 0 !important;
+}
+
+[dir="rtl"],
+[dir="rtl"] body,
+[dir="rtl"] .font-mono,
+[dir="rtl"] [class*="font-mono"] {
+  font-family: var(--font-arabic), "IBM Plex Sans Arabic", "Cairo", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif !important;
+}
+
+[dir="rtl"],
+html[dir="rtl"] body {
+  font-size: 1.05rem; /* ~5-8% larger Arabic body font size */
+  line-height: 1.75;
+}
+
+[dir="rtl"] p {
+  line-height: 1.82;
+}
+
+[dir="rtl"] h1,
+[dir="rtl"] h2,
+[dir="rtl"] h3,
+[dir="rtl"] h4 {
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+/* Selection */
+::selection {
+  background-color: var(--accent);
+  color: var(--accent-foreground);
+}
+
+/* Custom Editorial Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-subtle);
+}
+
+/* Restrained Grid Lines & Editorial Dividers */
+.hairline-border {
+  border-color: var(--border);
+}
+
+.hairline-b {
+  border-bottom: 1px solid var(--border);
+}
+
+.hairline-t {
+  border-top: 1px solid var(--border);
+}
+
+.hairline-r {
+  border-right: 1px solid var(--border);
+}
+
+.hairline-l {
+  border-left: 1px solid var(--border);
+}
+
+/* Architectural Grid Pattern (Subtle) */
+.spatial-grid {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, var(--border) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--border) 1px, transparent 1px);
+}
+
+/* Subtle noise texture simulation */
+.grain-overlay {
+  pointer-events: none;
+  opacity: 0.025;
+}
